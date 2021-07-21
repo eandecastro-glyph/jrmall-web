@@ -1,0 +1,18 @@
+#footer-wrapper{
+    height: 375px;
+    position: relative;
+    bottom: 0;
+    background-color: #152C59;
+}
+
+#footer-container{
+    height: 80%;
+    background-color: #152C59;
+    position: relative;
+}
+
+#footer-terms{
+    height: 20%;
+    background-color: #76AAD3;
+    position: relative;
+}
